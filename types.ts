@@ -1,4 +1,4 @@
-var aBoolean = false;
+let aBoolean: any = false;
 console.log(typeof aBoolean); // "boolean"
 
 aBoolean = "Tom";
